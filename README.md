@@ -1,4 +1,4 @@
-## CS440/ECE448 Assignment 1: Naive Bayes
+## CS7637 Mini-Project 2 Block World
 
 # 加微信 powcoder
 
